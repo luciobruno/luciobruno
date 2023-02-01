@@ -1,6 +1,6 @@
 ## Hi! I'm Lúcio
 
-### About me
+### About me:
 
 - 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
 - 📚 6th semester Mechanical Engineering
@@ -17,7 +17,7 @@
 ### 📫 How to reach me:
 luciobrunop20@hotmail.com
 
-### Github Stats
+### Github Stats:
 
 <a href="https://github.com/luciobruno?tab=repositories">![Lúcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciobruno)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciobruno&layout=compact)</a>
