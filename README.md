@@ -4,7 +4,7 @@
 
 - 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
 - 📚 6th semester Mechanical Engineering
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.js
 - 🧏🏻‍♀️ Languages: Portuguese and English
 
 ### Languages and Tools:
