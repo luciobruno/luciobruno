@@ -3,7 +3,7 @@
 ### About me:
 
 - 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
-- 📚 6th semester Mechanical Engineering
+- 📚 Mechanical Engineering Student
 - 🌱 I’m currently learning Node.js
 - 🧏🏻‍♀️ Languages: Portuguese and English
 
