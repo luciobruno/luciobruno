@@ -4,7 +4,7 @@
 
 - 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
 - 📚 Mechanical Engineering Student
-- 🌱 I’m currently learning ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+- 🌱 I’m currently learning Prisma
 - 🧏🏻‍♀️ Languages: Portuguese and English
 
 ### Languages and Tools:
