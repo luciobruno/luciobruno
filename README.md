@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
+- 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Student
 - 📚 Mechanical Engineering Student
 - 🌱 I’m currently learning Docker
 - 🧏🏻‍♀️ Languages: Portuguese and English
