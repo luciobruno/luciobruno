@@ -4,7 +4,7 @@
 
 - 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
 - 📚 Mechanical Engineering Student
-- 🌱 I’m currently learning Nest
+- 🌱 I’m currently learning Docker
 - 🧏🏻‍♀️ Languages: Portuguese and English
 
 ### Front-end:
