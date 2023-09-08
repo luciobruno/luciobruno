@@ -1,14 +1,14 @@
-## Hi! I'm Lúcio
+## Olá! Eu sou Lúcio
 
-### About me:
+### Sobre-me:
 
-- 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Student
-- 📚 Mechanical Engineering Student
-- 🌱 I’m currently learning Docker
-- 🧏🏻‍♀️ Languages: Portuguese and English
-- 📫 How to reach me: luciobrunop20@hotmail.com
-
-### Connect with me:
+- 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven</a>
+- 📚 Estudante de Engenharia Mecânica
+- 🌱 Atualmente estou aprendendo Docker
+- 🧏🏻‍♀️ Idiomas: Português e Inglês
+- 📫 Como entrar em contato comigo: luciobrunop20@hotmail.com
+ 
+### Conecte-se comigo:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucio-bruno/)
 
 ### Front-end:
@@ -25,11 +25,11 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Database:
+### Banco de dados:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools:
+### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
