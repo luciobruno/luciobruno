@@ -6,8 +6,9 @@
 - 📚 Mechanical Engineering Student
 - 🌱 I’m currently learning Docker
 - 🧏🏻‍♀️ Languages: Portuguese and English
-  
-### 📫 How to reach me:
+- 📫 How to reach me: luciobrunop20@hotmail.com
+
+### Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucio-bruno/)
 
 ### Front-end:
