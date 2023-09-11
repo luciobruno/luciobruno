@@ -47,3 +47,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img height="172em" alt="Lucio's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciobruno&layout=compact&langs_count=10&theme=rose_pine&bg_color"/>
+</details>
