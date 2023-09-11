@@ -1,6 +1,6 @@
 ## Olá! Eu sou Lúcio
 
-### Sobre
+### Sobre mim:
 
 - 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven</a>
 - 📚 Estudante de Engenharia Mecânica
