@@ -2,9 +2,8 @@
 
 ### Sobre mim:
 
-- 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven</a>
-- 📚 Estudante de Engenharia Mecânica
-- 🌱 Atualmente estou aprendendo Docker
+- 📚 Estudante de Engenharia de Software
+- 🌱 Atualmente estou aprendendo Java
 - 🧏🏻‍♀️ Idiomas: Português e Inglês
 - 📫 Como entrar em contato comigo: luciobrunop20@hotmail.com
  
